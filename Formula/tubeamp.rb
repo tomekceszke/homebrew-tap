@@ -3,8 +3,8 @@ class Tubeamp < Formula
 
   desc "Retro-styled TUI music player powered by YouTube"
   homepage "https://github.com/tomekceszke/tubeamp"
-  url "https://files.pythonhosted.org/packages/6b/f7/77acbb0cd90b232fbf3727ab0f47ebe7ee541b4364c1ccb33bf4f79c2232/tubeamp-0.1.2.tar.gz"
-  sha256 "86bc100abeca31632c5a0233ff7a7a19a599462f166ccc4a351894b380e867b6"
+  url "https://files.pythonhosted.org/packages/ff/5f/7db6e193498fa957a407963d0172e025c21c9df0a4ed62990bc9596ff510/tubeamp-0.1.3.tar.gz"
+  sha256 "d20cb516e59c529e188855901c7f38725e8f1761e15c657c27d1a70ecc0ab831"
   license "MIT"
 
   depends_on "ffmpeg"
